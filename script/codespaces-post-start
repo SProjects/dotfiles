@@ -53,6 +53,3 @@ alias gstl='git stash list'
 alias gstp='git stash pop'
 alias gsts='git stash save'
 alias gr='git restore .'
-
-# GitHub Shortcuts
-function tt() { bin/rails test $1; }
