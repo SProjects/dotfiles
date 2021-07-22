@@ -14,3 +14,6 @@ apt-get install -y \
 
 # Setup the database for locate
 updatedb
+
+# Set git aliases
+source .zshrc_local
